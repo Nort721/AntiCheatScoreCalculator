@@ -1,5 +1,5 @@
 # AntiCheatScoreCalculator
-A small C# GUI program for people who are too lazy to calculate their spigot AntiCheat score themself
+A small C# GUI program that use the spigot algorithm to calculate a resource score, for people who are too lazy to calculate their spigot AntiCheat score themself
 
 
 https://i.imgur.com/mJCia9A.png
